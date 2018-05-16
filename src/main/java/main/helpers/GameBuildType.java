@@ -1,0 +1,5 @@
+package main.helpers;
+
+public enum GameBuildType {
+	STANDARD, CHEAP, TRIPLEAADVENTURE, TRIPLEA, TRIPLEARPG, TRIPLEAACTION, STANDARDINDIE;
+}
